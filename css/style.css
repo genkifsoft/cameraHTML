@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text-format {
+    font-size: 10px;
+    font-family: Arial;
+    padding: 5px 0px;
+}
+.padding-left {
+    padding-left: 10px;
+}
+.header-infor {
+    border-bottom: 1px solid #b6b4b4;
+    padding-top: 5px;
+}
+.icon-color {
+    color: #df1f26;
+}
+.cart {
+    font-size: 11px;
+    list-style-type: none;
+}
+.cart li {
+    float: left;
+}
+.cart li a{ 
+    color: inherit;
+    text-decoration: none;
+}
+.cart li:last-child {
+    padding-left: 10px;
+}
