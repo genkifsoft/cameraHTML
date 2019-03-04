@@ -22,6 +22,9 @@ position:absolute
 object-fit: cover
 - Dùng cho vừa ảnh đã cắt
 
+display: flex;
+- Canh item trên 1 hàng. Nếu trường hợp rộng hơn chiều rộng qui định nào vẫn được trên 1 dòng. Chiều cao cũng
+canh đều theo các item
 - Đỗ bóng
 box-shadow: inset 0 0 5px rgba(0,0,0,.2);
 
