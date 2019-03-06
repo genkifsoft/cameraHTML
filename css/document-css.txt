@@ -4,7 +4,7 @@ justify-content: space-bettwen
 
 display: fex
 align-items: center
-- Canh nội dung nằm ở giữa cột
+- Canh nội dung nằm ở giữa cột(canh thằng cha)
 
 padding không chạy item
 box-zing:border-box
