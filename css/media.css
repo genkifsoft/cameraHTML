@@ -985,6 +985,26 @@
     .same-trademart {
         margin: 30px 0;
     }
+    .author-avatar i {
+        background-color: #ccc;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .author-avatar {
+        font-size: 40px;
+        float: left;
+        margin-right: 10px;
+    }
+    .comment-daddy p {
+        line-height: 1.5;
+        display: contents;
+    }
+    .author-infor {
+        margin-top: 10px;
+    }
+    .margin-top span {
+        line-height: 1.5;
+    } 
 }
 
 @media screen and (min-device-width: 481px) and (max-device-width: 767px) { 
