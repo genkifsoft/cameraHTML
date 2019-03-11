@@ -146,11 +146,11 @@
         color: #fff;
     }
     .search-box button i {
-        padding: 7px 13px;
+        padding: 10px 13px;
     }
     
     .select-tag {
-        padding: 5px 40px 6px 1px;
+        padding: 9px 40px 6px 1px;
         font-size: 11px;
         font-family: tahoma;
         text-align: left;
@@ -168,7 +168,7 @@
 
     .input-search {
         width: 73%;
-        padding: 5px 24px 3px 25px;
+        padding: 10px 24px 3px 25px;
     }
     .menu-list {
         width: 100%;
@@ -993,7 +993,7 @@
     .author-avatar {
         font-size: 40px;
         float: left;
-        margin-right: 10px;
+        margin: 0 10px;
     }
     .comment-daddy p {
         line-height: 1.5;
@@ -1005,6 +1005,114 @@
     .margin-top span {
         line-height: 1.5;
     } 
+    .related-industries {
+        margin-top: 10px;
+        border: 1px solid #ccc;
+    }
+    .related-industries__header {
+
+    }
+    .related-industries__header p {
+        background-color: #ccc;
+        padding: 10px;
+        color: black;
+        font-weight: bold;
+    }
+    .list-related-industries {
+        list-style-type: none;
+    }
+    .list-related-industries li {
+        border-bottom: 1px solid #ccc;
+        padding: 10px;
+    }
+    .wapper-register {
+        margin: 15px;
+    }
+    .wapper-register p {
+        padding-bottom: 10px;
+    }
+    .register {
+        width: 50%;
+        float: left;
+        margin-right: 5px;
+        border: 1px solid #ccc;
+    }
+    .register-login__body {
+        margin-top: 10px;
+    }
+    .login {
+        float: right;
+        margin-bottom: 10px;
+        width: 48%;
+        border: 1px solid #ccc;
+    }
+    .login-and-register {
+        margin-top: 30px;
+    }
+    .wapper-register input {
+        padding: 8px;
+        width: 65%;
+    }
+    .wapper-login {
+        margin: 15px;
+    }
+    .wapper-login p {
+        padding-bottom: 10px;
+    }
+    .wapper-login input {
+        width: 65%;
+        padding: 7px;    
+        margin-bottom: 10px;
+    }
+    .create-account {
+        border: none;
+        background-color: #df1f26;
+        color: #fff;
+        padding: 10px 15px;
+        float: right;
+        margin: 10px;
+    }
+    .button-login {
+        float: right;
+        display: flex;
+        align-items: center;
+    }
+    .cart-infor {
+        font-family: tahoma;
+        margin-top: 15px;
+        font-size: 13px;
+    }
+    .bread-crum {
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
+    .item-cart {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-top: 15px;
+    }
+    .list-item-cart {
+        border: 1px solid #ccc;
+        margin-top: 25px;
+    }
+    .item-cart__header {
+        display: flex;
+    }
+    .item-image-cart {
+        margin: 10px;
+    }
+    .name-cart-item {
+        margin: 10px;
+    }
+    .price-item-cart {
+        margin: 10px;
+    }
+    .total-item-cart {
+        margin: 10px;
+    }
+    .price-cart {
+        margin: 10px;
+    }
 }
 
 @media screen and (min-device-width: 481px) and (max-device-width: 767px) { 
