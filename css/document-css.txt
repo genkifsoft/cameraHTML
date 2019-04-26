@@ -38,3 +38,5 @@ style margin or padding body
 overflow: hidden;
 height: 115px;
 - Dùng set ảnh lớn hơn sẽ chiều cao sẽ bị bắt bỏ
+
+canh chỉnh nội dung nằm giữa trong thẻ tr
